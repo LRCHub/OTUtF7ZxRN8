@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "StaRt",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-02T15:09:57.014001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/01_Don't_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Let Our Love Start Slippin' Away",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/02_Don't_Let_Our_Love_Start_Slippin'_Away_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Let Our Love Start Slippin' Away (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/03_Don't_Let_Our_Love_Start_Slippin'_Away_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Let Our Love Start Slippin' Away (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/04_Don't_Let_Our_Love_Start_Slippin'_Away_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever's Gotta Start Somewhere",
+      "artist": "Chad Brownlee",
+      "has_synced": true,
+      "path": "select/05_Forever's_Gotta_Start_Somewhere_Chad_Brownlee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Right from the Start",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/06_Right_from_the_Start_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Right from the Start",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/07_Right_from_the_Start_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back to the Start",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/08_Back_to_the_Start_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let's Start From Here",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/09_Let's_Start_From_Here_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Press the Start Button",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/10_Press_the_Start_Button_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Start It Up",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/11_Start_It_Up_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Start The Party",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/12_Start_The_Party_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Start This Shit Off Right (feat. Ashanti & Mack Maine)",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/13_Start_This_Shit_Off_Right_(feat._Ashanti_&_Mack_Maine)_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ending Start",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/14_Ending_Start_Metric.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "StaRt",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_StaRt_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
